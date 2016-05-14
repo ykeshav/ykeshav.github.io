@@ -16,7 +16,7 @@ subtitle: Reach out Me Here...!!!
   </div>
   <input type="hidden" name="_subject" value="New User Contacted From ykeshav.github.io">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message"
-            required="required" rows="3" style="margin-bottom: 15px;"></textarea>
+            required="required" rows="3" style="margin-bottom: 15px;resize: vertical"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="./contact?message=Your message was sent successfully, thanks!"/>
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
