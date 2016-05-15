@@ -613,10 +613,12 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
-.project-title, .project-sub-title {
+.project-title, .project-sub-title, .project-description {
   margin: 0px !important;
 }
 
 .project-sub-title {
   color: darkgray;
 }
+
+
