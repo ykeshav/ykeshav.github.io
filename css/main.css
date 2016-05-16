@@ -621,4 +621,7 @@ table tr td :last-child {
   color: darkgray;
 }
 
+.portfolio-item {
+  margin-bottom: 25px;
+}
 
