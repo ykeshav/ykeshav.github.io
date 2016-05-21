@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: http://ykeshav.github.io/sitemap.xml
