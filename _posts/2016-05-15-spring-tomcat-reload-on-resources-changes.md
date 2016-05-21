@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Spring tomcat reload resources on changes
-subtitle: Auto reload/Update on static files changes
+title: Spring tomcat reload page whenever files on classpath changes
+subtitle: Tomcat Auto reload Page on files changes
 ---
 
 Spring Tomcat Application auto reload Can be done in two days without using JRebel<br/>
