@@ -2,10 +2,6 @@
 layout: post
 title: Spring tomcat reload page whenever files changes on classpath
 subtitle: Tomcat Auto reload Page on files changes
-sitemap:
-    priority: 1.00
-    changefreq: 'daily'
-
 ---
 
 Spring Tomcat Application auto reload Can be done in two days without using JRebel<br/>
