@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring tomcat reload page whenever files changes on classpath
+title: Spring tomcat reload page whenever files changed on classpath
 subtitle: Tomcat Auto reload Page on files changes
 ---
 
