@@ -42,10 +42,10 @@ avatar: "/img/keshav-yamalapati.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Keshav Yamalapati
-  email: "y.keshav1877@gmail.com"
+  email: "keshav.yamalapati@gmail.com"
   facebook: keshavchinna
   github: keshavchinna
-  twitter: keshav1877
+  twitter: ykeshav9
   linkedin: "https://in.linkedin.com/in/ykeshav"
   stackoverflow: yourlink
  
@@ -61,7 +61,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "y.keshav1877@gmail.com"
+url-pretty: "keshav.yamalapati@gmail.com"
 
 # --- Misc --- #
 

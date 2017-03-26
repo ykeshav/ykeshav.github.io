@@ -3,7 +3,7 @@ layout: page
 title: Contact Me
 subtitle: Reach out Me Here...!!!
 ---
-<form action="https://formspree.io/y.keshav1877@gmail.com" method="POST" class="form" id="contact-form">
+<form action="https://formspree.io/keshav.yamalapati@gmail.com" method="POST" class="form" id="contact-form">
   <div class="row" style="margin-top: 30px;">
     <div class="col-xs-6">
       <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name"
